@@ -1,1 +1,1 @@
-# Starting point for pages using JS, jQuery, bootstrap and PHP
+# Weather app using geolocation for FCC project

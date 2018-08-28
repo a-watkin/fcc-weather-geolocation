@@ -1,3 +1,7 @@
 h1 {
-    color: green;
+    margin: 10%;
+}
+
+#weather-style {
+    font-size: 2em;
 }
